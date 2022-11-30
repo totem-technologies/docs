@@ -1,10 +1,10 @@
+---
+description: Module 1
+---
+
 # Totem Circle Keeper Training - Week 1 Introduction
 
-## ****
-
-## **MODULE 1**&#x20;
-
-### **Introduction: History of Circle**
+## **Introduction: History of Circle**
 
 O process is a community dialogue practice rooted in the tradition of First Nation People in Canada.&#x20;
 
