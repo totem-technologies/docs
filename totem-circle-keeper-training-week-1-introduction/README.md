@@ -76,7 +76,7 @@ Our mission is to uphold the quality of the ancestral work that we're doing, hol
 
 ### The Five Constituent Elements of O
 
-_\*Watch Ted teach on this topic_[ _here_ ](https://www.veed.io/view/6a99b8c5-f673-4c48-8d3d-39d041ccf6a0?panel=share)
+_\*Watch Ted teach on this topic_[ _here_ ](https://www.veed.io/view/6a99b8c5-f673-4c48-8d3d-39d041ccf6a0?panel=share)(please note that the video starts 33 seconds in)
 
 The following are intentional structural elements of Circle Process:
 
