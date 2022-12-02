@@ -2,7 +2,7 @@
 description: Module 1
 ---
 
-# Totem Circle Keeper Training - Week 1 Introduction
+# Circle Keeper Training - Week 1 Introduction
 
 ## **Introduction: History of Circle**
 
@@ -76,7 +76,7 @@ Our mission is to uphold the quality of the ancestral work that we're doing, hol
 
 ### The Five Constituent Elements of O
 
-_\*Watch Ted teach on this topic_[ _here_ ](https://www.veed.io/view/6a99b8c5-f673-4c48-8d3d-39d041ccf6a0?panel=share)(please note that the video starts 33 seconds in)
+_\*Watch Ted teach on this topic_[ __ ](https://www.veed.io/view/6d88be43-ec0a-405f-9270-ec13f7eb5bf5?panel=share)__[_here_](https://www.veed.io/view/6d88be43-ec0a-405f-9270-ec13f7eb5bf5?panel=share) _(_please note that the video starts 10 seconds in)
 
 The following are intentional structural elements of Circle Process:
 
