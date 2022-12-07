@@ -3,6 +3,7 @@
 * [Participant Handbook](README.md)
 * [Keeper Handbook](keeper-handbook.md)
 * [Accessing Totem](accessing-totem.md)
+* [Totem Circle Keeper training](totem-circle-keeper-training.md)
 * [Training](training/README.md)
   * [Week 1 Introduction](training/week-1-introduction/README.md)
     * [Totem Circle Keeper Training - Week 1 Introduction as PDF](https://drive.google.com/file/d/1t0YQwDtbmBsyctZsjbDqKTwgia3pLMSp/view?usp=drivesdk)
