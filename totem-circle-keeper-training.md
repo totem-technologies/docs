@@ -1,2 +1,0 @@
-# Totem Circle Keeper training
-
