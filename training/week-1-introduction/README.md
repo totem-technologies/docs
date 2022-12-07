@@ -2,7 +2,7 @@
 description: Module 1
 ---
 
-# Circle Keeper Training - Week 1 Introduction
+# Week 1 Introduction
 
 ## **Introduction: History of Circle**
 
@@ -30,7 +30,7 @@ We believe every participant has a gift/s which will unlock solutions to the str
 
 ### **Meet our Trainers**
 
-<figure><img src="../.gitbook/assets/TedWallach.png" alt=""><figcaption><p><strong>Ted Wallach</strong><br><strong></strong>Chief Circle Officer &#x26; Your Co-Keeper</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/TedWallach.png" alt=""><figcaption><p><strong>Ted Wallach</strong><br><strong></strong>Chief Circle Officer &#x26; Your Co-Keeper</p></figcaption></figure>
 
 Ted has a clinical practice, coaching individuals using Taoism and Quantum Mechanics to manifest the best versions of themselves. He founded Quantum Warrior, a 12-week online men’s Circle from his work at the Peace Innovation Lab at Stanford where he is a visiting scholar. He recently joined the UN Global Help Desk and had the honor of supporting Vint Cerf with the writing of his speech to the UN General Council.&#x20;
 
@@ -40,7 +40,7 @@ After working with several marketing agencies in NYC, he created The AMEX Trifec
 
 Then he found circle and his entire life changed...
 
-<figure><img src="../.gitbook/assets/StephanieRessler.png" alt="Stephanie Ressler"><figcaption><p><strong>Stephanie Ressler</strong><br><strong></strong>Head of Curriculum &#x26; Your C0-Keeper<br><strong></strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/StephanieRessler.png" alt="Stephanie Ressler"><figcaption><p><strong>Stephanie Ressler</strong><br><strong></strong>Head of Curriculum &#x26; Your C0-Keeper<br><strong></strong></p></figcaption></figure>
 
 Stephanie is a trained Clinical Mental Health Counselor, Life Coach, Hypnosis Practitioner, and Breathwork Facilitator who is passionate about helping people learn how to reconnect with their body’s internal wisdom and reintroduce them to the truth of who they are.
 
