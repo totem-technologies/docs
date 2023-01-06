@@ -14,3 +14,4 @@
     * [Totem Circle Keeper Training - Module 4 as PDF](https://drive.google.com/file/d/1sfULtzZul8wv5wNTJF9vX\_BpN43o1LZV/view?usp=sharing)
   * [Week 5](totem-circle-keeper-training/week-5/README.md)
     * [Totem Circle Keeper Training - Module 5 as PDF](https://drive.google.com/file/d/1Ctk8-fXCVLxsZuqsT9LHg\_o-rpnRNcUs/view?usp=sharing)
+  * [To change the title, type in this field](totem-circle-keeper-training/to-change-the-title-type-in-this-field.md)
