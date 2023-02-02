@@ -2,10 +2,10 @@
 description: >-
   This handbook outlines how to operate Totem as a participant. This will take
   you through the account creation flow and how to enter, then participate in
-  circles.
+  circles!
 ---
 
-# Totem Participant Handbook
+# Participant Handbook
 
 ## Account Creation <a href="#_1n2z1stkwgdw" id="_1n2z1stkwgdw"></a>
 
